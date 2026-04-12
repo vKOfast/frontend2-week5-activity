@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-12)
+
+
+### Features
+
+* Update main.jsx file ([#1](https://github.com/JosephRangel/frontend2-week5-activity/issues/1)) ([b643083](https://github.com/JosephRangel/frontend2-week5-activity/commit/b6430834938c3bcba40d8902328badbd4a3b6ff6))
+
 # [1.1.0](https://github.com/JosephRangel/frontend2-week4-activity/compare/v1.0.0...v1.1.0) (2026-04-11)
 
 
