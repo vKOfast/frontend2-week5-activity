@@ -36,11 +36,37 @@ const Home = () => {
 
   // 3. Renderizado condicional basado en los estados
   if (isLoading) {
-    return <h2 className="state-message">Cargando juegos... ⏳</h2>;
+    return (
+      <div className="container">
+        <h2
+          style={{
+            textAlign: 'center',
+            fontSize: '1.5rem',
+            color: '#ff0000',
+            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000'
+          }}
+        >
+          Cargando juegos... ⏳
+        </h2>
+      </div>
+    );
   }
 
   if (error) {
-    return <h2 className="state-message error-text">Error: {error} ❌</h2>;
+    return (
+      <div className="container">
+        <h2
+          style={{
+            textAlign: 'center',
+            fontSize: '1.5rem',
+            color: '#ff0000',
+            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000'
+          }}
+        >
+          Error: {error} ❌
+        </h2>
+      </div>
+    );
   }
 
   // 4. Renderizado principal
