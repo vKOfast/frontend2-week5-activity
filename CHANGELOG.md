@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.0.0...v1.1.0) (2026-04-16)
+
+
+### Features
+
+* nuevo diseño dark rojo fuego ([857fcba](https://github.com/vKOfast/frontend2-week5-activity/commit/857fcba7fe62d1b8cbe2869ea16a5e4a92c9e120))
+
 # 1.0.0 (2026-04-16)
 
 
