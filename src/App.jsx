@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Favorites from './pages/Favorites';
 import GameDetails from './pages/GameDetails';
-
+// activando pipeline docker
 function App() {
   return (
     <div>
