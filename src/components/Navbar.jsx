@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="nav-logo">
-        🎮 Gamepedia
+        🎮 GAMEPEDIA
       </Link>
 
       <div className="nav-links">
@@ -12,7 +12,7 @@ const Navbar = () => {
           Inicio
         </Link>
         <Link to="/favorites" className="nav-link">
-          Mis Favoritos
+          Favoritos
         </Link>
       </div>
     </nav>
