@@ -1,3 +1,11 @@
+# 1.0.0 (2026-04-16)
+
+
+### Features
+
+* proyecto base gamepedia ([ee01a13](https://github.com/vKOfast/frontend2-week5-activity/commit/ee01a1385688352b7c215ced64c46d864c353d8b))
+* Update main.jsx file ([#1](https://github.com/vKOfast/frontend2-week5-activity/issues/1)) ([b643083](https://github.com/vKOfast/frontend2-week5-activity/commit/b6430834938c3bcba40d8902328badbd4a3b6ff6))
+
 # 1.0.0 (2026-04-12)
 
 
