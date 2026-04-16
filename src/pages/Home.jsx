@@ -9,7 +9,7 @@ const Home = () => {
 
   useEffect(() => {
     // IMPORTANTE: Reemplazar con la llave real de RAWG en clase
-    const API_KEY = '2a3f6a90fc644427b42cddeff0bbe478';
+    const API_KEY = '0d9a691a81334a199a1d3755e60d290a';
 
     // 2. Función asíncrona nombrada convencionalmente
     const fetchGames = async () => {
