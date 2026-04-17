@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.2.0...v1.3.0) (2026-04-17)
+
+
+### Features
+
+* corregir formato con prettier ([c755a00](https://github.com/vKOfast/frontend2-week5-activity/commit/c755a00a92cbd13790b291a78ccd89c838c4375f))
+
 # [1.2.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-17)
 
 
