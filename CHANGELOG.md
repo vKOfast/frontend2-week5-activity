@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.4.0...v1.5.0) (2026-04-17)
+
+
+### Features
+
+* force release trigger ([28b963e](https://github.com/vKOfast/frontend2-week5-activity/commit/28b963e1c5e8c28ca8d5fb2f15c375ff235e7e94))
+* trigger release after initial tag ([fa17714](https://github.com/vKOfast/frontend2-week5-activity/commit/fa17714d3256fe250cee571d21c2842ab8b1aeb7))
+
 # [1.4.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.3.0...v1.4.0) (2026-04-17)
 
 
