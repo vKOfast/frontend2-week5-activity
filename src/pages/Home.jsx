@@ -43,7 +43,7 @@ const Home = () => {
             textAlign: 'center',
             fontSize: '1.5rem',
             color: '#ff0000',
-            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000'
+            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000',
           }}
         >
           Cargando juegos... ⏳
@@ -60,7 +60,7 @@ const Home = () => {
             textAlign: 'center',
             fontSize: '1.5rem',
             color: '#ff0000',
-            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000'
+            textShadow: '0 0 10px #ff0000, 0 0 20px #8b0000',
           }}
         >
           Error: {error} ❌
