@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.3.0...v1.4.0) (2026-04-17)
+
+
+### Features
+
+* configure semantic release correctly ([ff5431a](https://github.com/vKOfast/frontend2-week5-activity/commit/ff5431a736a20a615c418c506ef8bfc535975278))
+
 # [1.3.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.2.0...v1.3.0) (2026-04-17)
 
 
