@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-17)
+
+
+### Features
+
+* activar pipeline docker ([db4d4e9](https://github.com/vKOfast/frontend2-week5-activity/commit/db4d4e956e52d4f2c280df7b85cd80868c42c0b0))
+* forzar build docker ([95c2c66](https://github.com/vKOfast/frontend2-week5-activity/commit/95c2c666bba465afbc93b6b0d8693c8cbd26be04))
+
 # [1.1.0](https://github.com/vKOfast/frontend2-week5-activity/compare/v1.0.0...v1.1.0) (2026-04-16)
 
 
